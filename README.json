@@ -1,0 +1,291 @@
+{
+  "items": [
+    {
+      "description": "Contributions are welcome! Please see the contributing guide. If you would like to have your project included in this list, please file a pull request.",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "The Aya Book",
+          "description": "The official Aya book, currently a work in progress",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Some code examples are available here",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Shell",
+                "last_commit": "2026-08-10T01:03:12Z",
+                "owner": "aya-rs",
+                "repo": "book",
+                "stars": 144
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-10T01:03:12Z",
+            "owner": "aya-rs",
+            "repo": "book",
+            "stars": 144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aya templates for",
+          "description": "An easy way to generate a new Aya project using",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T22:32:55Z",
+            "owner": "aya-rs",
+            "repo": "aya-template",
+            "stars": 140
+          }
+        }
+      ],
+      "title": "Reference Documentation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Articles and Presentations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "oryx",
+          "description": "A TUI (Terminal User Interface) for sniffing network traffic.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-17T17:33:18Z",
+            "owner": "pythops",
+            "repo": "oryx",
+            "stars": 2553
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "profile-bee",
+          "description": "CPU profiler with interactive TUI, DWARF unwinding support, and multiple output formats",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-31T22:01:30Z",
+            "owner": "zz85",
+            "repo": "profile-bee",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cir",
+          "description": "An tool for loading infrared remote control keymaps for Linux",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-10-09T10:48:39Z",
+            "owner": "seanyoung",
+            "repo": "cir",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "suidsnoop",
+          "description": "Uses Aya and eBPF LSM programs to implement audit logging and policy enforcement for suid binaries",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2021-10-31T23:15:09Z",
+            "owner": "willfindlay",
+            "repo": "suidsnoop",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mybee",
+          "description": "An eBPF profiler for MySQL 8.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-08-07T04:51:49Z",
+            "owner": "elbaro",
+            "repo": "mybee",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tamanoir",
+          "description": "A simple keylogger.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-03-03T14:52:02Z",
+            "owner": "pythops",
+            "repo": "tamanoir",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xdp-loader",
+          "description": "Configurable XDP loader in Rust. Supports jump table dispatching and resource pinning in predictable folder structures.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-08-28T20:02:38Z",
+            "owner": "BRA1L0R",
+            "repo": "xdp-loader",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Small Tools that Use Aya"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "kunai",
+          "description": "A threat hunting/detection security monitoring tool:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-10T13:06:09Z",
+            "owner": "kunai-project",
+            "repo": "kunai",
+            "stars": 1083
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "luci-app-bandix",
+          "description": "A OpenWrt traffic monitoring application",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Built on top of bandix",
+              "description": "core backend, which uses Aya framework for eBPF program loading and management",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Rust",
+                "last_commit": "2026-05-15T14:53:37Z",
+                "owner": "timsaya",
+                "repo": "bandix",
+                "stars": 31
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T16:04:13Z",
+            "owner": "timsaya",
+            "repo": "luci-app-bandix",
+            "stars": 900
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "blixt",
+          "description": "A Kubernetes Gateway API based Layer 4 Load-Balancer for ingress",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Aya is used for eBPF code AND userspace (also uses Kube-RS",
+              "description": "for control-plane)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Rust",
+                "last_commit": "2026-08-04T19:14:52Z",
+                "owner": "kube-rs",
+                "repo": "kube",
+                "stars": 3800
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2025-09-05T12:32:06Z",
+            "owner": "kubernetes-retired",
+            "repo": "blixt",
+            "stars": 459
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lockc",
+          "description": "An eBPF LSM-based MAC security audit system for container workloads",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-06-02T14:22:14Z",
+            "owner": "lockc-project",
+            "repo": "lockc",
+            "stars": 234
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bombini",
+          "description": "An eBPF-based agent for security monitoring",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T07:21:31Z",
+            "owner": "bombinisecurity",
+            "repo": "bombini",
+            "stars": 54
+          }
+        }
+      ],
+      "title": "Major Projects that Use Aya"
+    },
+    {
+      "description": "The original idea for awesome comes from Sindre Sorhus. The format of this repository is based on zoidbergwill's Awesome eBPF list.",
+      "items": [],
+      "title": "Acknowledgements"
+    },
+    {
+      "description": "All text in this repository is governed by the Creative Commons Attribution-ShareAlike 4.0 International License.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:32:29.494Z",
+    "original_repository": "aya-rs/awesome-aya",
+    "original_repository_sha": "3069f9fa2e03d5091661ca16a1cdac47ce80ddf7",
+    "enhanced_repository": "enhansome/enhansome-aya",
+    "enhanced_repository_description": null,
+    "title": "Awesome Aya with stars"
+  }
+}
