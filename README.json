@@ -21,7 +21,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Shell",
-                "last_commit": "2026-08-10T01:03:12Z",
+                "last_commit": "2026-08-14T20:02:17Z",
                 "owner": "aya-rs",
                 "repo": "book",
                 "stars": 144
@@ -31,7 +31,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-10T01:03:12Z",
+            "last_commit": "2026-08-14T20:02:17Z",
             "owner": "aya-rs",
             "repo": "book",
             "stars": 144
@@ -45,10 +45,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-10T22:32:55Z",
+            "last_commit": "2026-08-14T10:16:49Z",
             "owner": "aya-rs",
             "repo": "aya-template",
-            "stars": 140
+            "stars": 139
           }
         }
       ],
@@ -174,7 +174,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-07-10T13:06:09Z",
+            "last_commit": "2026-08-14T07:15:28Z",
             "owner": "kunai-project",
             "repo": "kunai",
             "stars": 1083
@@ -206,7 +206,7 @@
             "last_commit": "2026-08-12T16:04:13Z",
             "owner": "timsaya",
             "repo": "luci-app-bandix",
-            "stars": 901
+            "stars": 902
           }
         },
         {
@@ -281,7 +281,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T04:30:22.714Z",
+    "last_updated": "2026-08-15T03:25:12.299Z",
     "original_repository": "aya-rs/awesome-aya",
     "original_repository_sha": "3069f9fa2e03d5091661ca16a1cdac47ce80ddf7",
     "enhanced_repository": "enhansome/enhansome-aya",
