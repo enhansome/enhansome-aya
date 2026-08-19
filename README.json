@@ -73,7 +73,7 @@
             "last_commit": "2026-07-17T17:33:18Z",
             "owner": "pythops",
             "repo": "oryx",
-            "stars": 2555
+            "stars": 2556
           }
         },
         {
@@ -177,7 +177,7 @@
             "last_commit": "2026-08-14T07:15:28Z",
             "owner": "kunai-project",
             "repo": "kunai",
-            "stars": 1083
+            "stars": 1084
           }
         },
         {
@@ -206,7 +206,7 @@
             "last_commit": "2026-08-18T00:16:39Z",
             "owner": "timsaya",
             "repo": "luci-app-bandix",
-            "stars": 903
+            "stars": 904
           }
         },
         {
@@ -225,7 +225,7 @@
                 "last_commit": "2026-08-04T19:14:52Z",
                 "owner": "kube-rs",
                 "repo": "kube",
-                "stars": 3802
+                "stars": 3803
               }
             }
           ],
@@ -281,7 +281,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T03:28:57.490Z",
+    "last_updated": "2026-08-19T03:31:10.222Z",
     "original_repository": "aya-rs/awesome-aya",
     "original_repository_sha": "3069f9fa2e03d5091661ca16a1cdac47ce80ddf7",
     "enhanced_repository": "enhansome/enhansome-aya",
