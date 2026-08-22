@@ -5,7 +5,7 @@
 eBPF is a technology that allows running user-supplied programs inside the Linux kernel.
 For more info see <https://ebpf.io/what-is-ebpf>.
 
-[Aya](https://github.com/aya-rs/aya) ⭐ 4,773 | 🐛 204 | 🌐 Rust | 📅 2026-08-21 is an eBPF library built with a focus on operability
+[Aya](https://github.com/aya-rs/aya) ⭐ 4,778 | 🐛 207 | 🌐 Rust | 📅 2026-08-22 is an eBPF library built with a focus on operability
 and developer experience. It does not rely on libbpf nor bcc - it's built from the ground
 up purely in Rust, using only the libc crate to execute syscalls. With BTF support and
 when linked with musl, it offers a true compile once, run everywhere solution, where
@@ -46,7 +46,7 @@ If you would like to have your project included in this list, please file a pull
 * [The Aya Book](https://github.com/aya-rs/book) ⭐ 145 | 🐛 26 | 🌐 Shell | 📅 2026-08-14 - The official Aya book, currently a work in progress
   * Some code examples are [available here](https://github.com/aya-rs/book/tree/main/examples) ⭐ 145 | 🐛 26 | 🌐 Shell | 📅 2026-08-14
   * Compiled mdbook version is [available here](https://aya-rs.github.io/book/)
-* [Aya templates for `cargo-generate`](https://github.com/aya-rs/aya-template) ⭐ 140 | 🐛 5 | 🌐 Rust | 📅 2026-08-15 - An easy way to generate a new Aya project using [`cargo-generate`](https://github.com/cargo-generate/cargo-generate) ⭐ 2,474 | 🐛 54 | 🌐 Rust | 📅 2026-08-17
+* [Aya templates for `cargo-generate`](https://github.com/aya-rs/aya-template) ⭐ 140 | 🐛 5 | 🌐 Rust | 📅 2026-08-15 - An easy way to generate a new Aya project using [`cargo-generate`](https://github.com/cargo-generate/cargo-generate) ⭐ 2,475 | 🐛 54 | 🌐 Rust | 📅 2026-08-17
 * [The official Aya Discord server](https://discord.gg/xHW2cb2N6G) - Community support and discussion
 * [The official Aya docs on docs.rs](https://docs.rs/aya/0.10.5/aya/) - Up-to-date documentation on the Aya userspace library
 
@@ -77,7 +77,7 @@ If you would like to have your project included in this list, please file a pull
 
 ## Small Tools that Use Aya
 
-* [oryx](https://github.com/pythops/oryx) ⭐ 2,560 | 🐛 5 | 🌐 Rust | 📅 2026-07-17 - A TUI (Terminal User Interface) for sniffing network traffic.
+* [oryx](https://github.com/pythops/oryx) ⭐ 2,564 | 🐛 5 | 🌐 Rust | 📅 2026-07-17 - A TUI (Terminal User Interface) for sniffing network traffic.
 * [profile-bee](https://github.com/zz85/profile-bee/) ⭐ 72 | 🐛 22 | 🌐 Rust | 📅 2026-07-31 - CPU profiler with interactive TUI, DWARF unwinding support, and multiple output formats
 * [cir](https://github.com/seanyoung/cir) ⭐ 23 | 🐛 0 | 📅 2024-10-09 - An tool for loading infrared remote control keymaps for Linux
   * Aya is used to load, query and remove eBPF infrared decoders
@@ -101,11 +101,11 @@ If you would like to have your project included in this list, please file a pull
 
 ## Major Projects that Use Aya
 
-* [kunai](https://github.com/kunai-project/kunai) ⭐ 1,084 | 🐛 16 | 🌐 Rust | 📅 2026-08-14 - A threat hunting/detection security monitoring tool:
+* [kunai](https://github.com/kunai-project/kunai) ⭐ 1,084 | 🐛 17 | 🌐 Rust | 📅 2026-08-21 - A threat hunting/detection security monitoring tool:
   * Utilizes a bunch of Aya-based eBPF probes to generate security-relevant events for various cyber threat hunting and detection tasks.
   * Can serve as a log source for incident response and forensic analysis.
   * With the right rules, it can function as a real-time behavioral detection system.
-* [luci-app-bandix](https://github.com/timsaya/luci-app-bandix) ⭐ 904 | 🐛 48 | 🌐 JavaScript | 📅 2026-08-18 - A [OpenWrt](https://github.com/openwrt/openwrt) ⭐ 28,050 | 🐛 4,339 | 🌐 C | 📅 2026-08-21 traffic monitoring application
+* [luci-app-bandix](https://github.com/timsaya/luci-app-bandix) ⭐ 906 | 🐛 48 | 🌐 JavaScript | 📅 2026-08-18 - A [OpenWrt](https://github.com/openwrt/openwrt) ⭐ 28,061 | 🐛 4,343 | 🌐 C | 📅 2026-08-21 traffic monitoring application
   * Built on top of [bandix](https://github.com/timsaya/bandix) ⭐ 32 | 🐛 3 | 🌐 Rust | 📅 2026-05-15 core backend, which uses Aya framework for eBPF program loading and management
   * Provides real-time network traffic monitoring
   * Supports LAN/WAN speed monitoring, device TCP/UDP connection monitoring, and DNS monitoring
@@ -115,7 +115,7 @@ If you would like to have your project included in this list, please file a pull
 * [lockc](https://github.com/rancher-sandbox/lockc) ⭐ 234 | 🐛 23 | 🌐 Rust | 📅 2024-06-02 - An eBPF LSM-based MAC security audit system for container workloads
   * Works with Docker and Kubernetes (with containerd CRI)
   * Enforcing 3 pre-defined policy levels on containers
-* [bombini](https://github.com/anfedotoff/bombini) ⭐ 54 | 🐛 7 | 🌐 Rust | 📅 2026-08-17 - An eBPF-based agent for security monitoring
+* [bombini](https://github.com/anfedotoff/bombini) ⭐ 56 | 🐛 7 | 🌐 Rust | 📅 2026-08-17 - An eBPF-based agent for security monitoring
   * Using Aya to implement detectors with various event types: process execution, network connections, file access, etc.
   * Provides specialized detectors for detecting malicious activity like [GTFObins](https://gtfobins.github.io/) execution
 
@@ -127,9 +127,9 @@ If you would like to have your project included in this list, please file a pull
 
 ## Acknowledgements
 
-The original idea for [awesome](https://github.com/sindresorhus/awesome) ⭐ 498,312 | 🐛 105 | 📅 2026-08-18 comes from
+The original idea for [awesome](https://github.com/sindresorhus/awesome) ⭐ 498,687 | 🐛 105 | 📅 2026-08-21 comes from
 [Sindre Sorhus](https://github.com/sindresorhus). The format of this repository is based
-on [zoidbergwill's Awesome eBPF list](https://github.com/zoidbergwill/awesome-ebpf) ⭐ 5,149 | 🐛 13 | 📅 2026-08-12.
+on [zoidbergwill's Awesome eBPF list](https://github.com/zoidbergwill/awesome-ebpf) ⭐ 5,150 | 🐛 13 | 📅 2026-08-12.
 
 ## License
 
@@ -139,4 +139,4 @@ All text in this repository is governed by the Creative Commons Attribution-Shar
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
