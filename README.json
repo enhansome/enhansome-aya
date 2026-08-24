@@ -175,7 +175,7 @@
             "archived": false,
             "id": 656723700,
             "language": "Rust",
-            "last_commit": "2026-08-21T14:36:27Z",
+            "last_commit": "2026-08-24T13:10:26Z",
             "owner": "kunai-project",
             "repo": "kunai",
             "stars": 1084
@@ -209,7 +209,7 @@
             "last_commit": "2026-08-18T00:16:39Z",
             "owner": "timsaya",
             "repo": "luci-app-bandix",
-            "stars": 906
+            "stars": 907
           }
         },
         {
@@ -229,7 +229,7 @@
                 "last_commit": "2026-08-04T19:14:52Z",
                 "owner": "kube-rs",
                 "repo": "kube",
-                "stars": 3804
+                "stars": 3805
               }
             }
           ],
@@ -267,7 +267,7 @@
             "archived": false,
             "id": 864634441,
             "language": "Rust",
-            "last_commit": "2026-08-17T13:44:33Z",
+            "last_commit": "2026-08-24T10:24:30Z",
             "owner": "bombinisecurity",
             "repo": "bombini",
             "stars": 57
@@ -278,7 +278,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T03:39:37.798Z",
+    "last_updated": "2026-08-24T14:34:06.269Z",
     "original_repository": "aya-rs/awesome-aya",
     "original_repository_id": 422014266,
     "original_repository_sha": "3069f9fa2e03d5091661ca16a1cdac47ce80ddf7",
