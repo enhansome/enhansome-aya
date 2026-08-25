@@ -43,7 +43,7 @@
             "archived": false,
             "id": 392741237,
             "language": "Rust",
-            "last_commit": "2026-08-15T20:32:08Z",
+            "last_commit": "2026-08-24T22:33:01Z",
             "owner": "aya-rs",
             "repo": "aya-template",
             "stars": 140
@@ -67,7 +67,7 @@
             "last_commit": "2026-07-17T17:33:18Z",
             "owner": "pythops",
             "repo": "oryx",
-            "stars": 2563
+            "stars": 2562
           }
         },
         {
@@ -278,7 +278,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:34:06.269Z",
+    "last_updated": "2026-08-25T03:33:31.418Z",
     "original_repository": "aya-rs/awesome-aya",
     "original_repository_id": 422014266,
     "original_repository_sha": "3069f9fa2e03d5091661ca16a1cdac47ce80ddf7",
