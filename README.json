@@ -198,7 +198,7 @@
                 "last_commit": "2026-05-15T14:53:37Z",
                 "owner": "timsaya",
                 "repo": "bandix",
-                "stars": 32
+                "stars": 33
               }
             }
           ],
@@ -209,7 +209,7 @@
             "last_commit": "2026-08-18T00:16:39Z",
             "owner": "timsaya",
             "repo": "luci-app-bandix",
-            "stars": 907
+            "stars": 909
           }
         },
         {
@@ -270,7 +270,7 @@
             "last_commit": "2026-08-24T10:24:30Z",
             "owner": "bombinisecurity",
             "repo": "bombini",
-            "stars": 57
+            "stars": 58
           }
         }
       ],
@@ -278,7 +278,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:26:56.356Z",
+    "last_updated": "2026-08-26T03:40:11.683Z",
     "original_repository": "aya-rs/awesome-aya",
     "original_repository_id": 422014266,
     "original_repository_sha": "3069f9fa2e03d5091661ca16a1cdac47ce80ddf7",
