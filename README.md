@@ -5,7 +5,7 @@
 eBPF is a technology that allows running user-supplied programs inside the Linux kernel.
 For more info see <https://ebpf.io/what-is-ebpf>.
 
-[Aya](https://github.com/aya-rs/aya) ⭐ 4,783 | 🐛 207 | 🌐 Rust | 📅 2026-08-26 is an eBPF library built with a focus on operability
+[Aya](https://github.com/aya-rs/aya) ⭐ 4,785 | 🐛 207 | 🌐 Rust | 📅 2026-08-27 is an eBPF library built with a focus on operability
 and developer experience. It does not rely on libbpf nor bcc - it's built from the ground
 up purely in Rust, using only the libc crate to execute syscalls. With BTF support and
 when linked with musl, it offers a true compile once, run everywhere solution, where
@@ -46,7 +46,7 @@ If you would like to have your project included in this list, please file a pull
 * [The Aya Book](https://github.com/aya-rs/book) ⭐ 145 | 🐛 26 | 🌐 Shell | 📅 2026-08-14 - The official Aya book, currently a work in progress
   * Some code examples are [available here](https://github.com/aya-rs/book/tree/main/examples) ⭐ 145 | 🐛 26 | 🌐 Shell | 📅 2026-08-14
   * Compiled mdbook version is [available here](https://aya-rs.github.io/book/)
-* [Aya templates for `cargo-generate`](https://github.com/aya-rs/aya-template) ⭐ 140 | 🐛 6 | 🌐 Rust | 📅 2026-08-24 - An easy way to generate a new Aya project using [`cargo-generate`](https://github.com/cargo-generate/cargo-generate) ⭐ 2,478 | 🐛 56 | 🌐 Rust | 📅 2026-08-25
+* [Aya templates for `cargo-generate`](https://github.com/aya-rs/aya-template) ⭐ 140 | 🐛 6 | 🌐 Rust | 📅 2026-08-24 - An easy way to generate a new Aya project using [`cargo-generate`](https://github.com/cargo-generate/cargo-generate) ⭐ 2,482 | 🐛 56 | 🌐 Rust | 📅 2026-08-25
 * [The official Aya Discord server](https://discord.gg/xHW2cb2N6G) - Community support and discussion
 * [The official Aya docs on docs.rs](https://docs.rs/aya/0.10.5/aya/) - Up-to-date documentation on the Aya userspace library
 
@@ -77,8 +77,8 @@ If you would like to have your project included in this list, please file a pull
 
 ## Small Tools that Use Aya
 
-* [oryx](https://github.com/pythops/oryx) ⭐ 2,563 | 🐛 5 | 🌐 Rust | 📅 2026-07-17 - A TUI (Terminal User Interface) for sniffing network traffic.
-* [profile-bee](https://github.com/zz85/profile-bee/) ⭐ 72 | 🐛 22 | 🌐 Rust | 📅 2026-07-31 - CPU profiler with interactive TUI, DWARF unwinding support, and multiple output formats
+* [oryx](https://github.com/pythops/oryx) ⭐ 2,569 | 🐛 5 | 🌐 Rust | 📅 2026-07-17 - A TUI (Terminal User Interface) for sniffing network traffic.
+* [profile-bee](https://github.com/zz85/profile-bee/) ⭐ 72 | 🐛 23 | 🌐 Rust | 📅 2026-08-26 - CPU profiler with interactive TUI, DWARF unwinding support, and multiple output formats
 * [cir](https://github.com/seanyoung/cir) ⭐ 23 | 🐛 0 | 📅 2024-10-09 - An tool for loading infrared remote control keymaps for Linux
   * Aya is used to load, query and remove eBPF infrared decoders
   * Compiles IRP Notation to eBPF using LLVM
@@ -105,14 +105,14 @@ If you would like to have your project included in this list, please file a pull
   * Utilizes a bunch of Aya-based eBPF probes to generate security-relevant events for various cyber threat hunting and detection tasks.
   * Can serve as a log source for incident response and forensic analysis.
   * With the right rules, it can function as a real-time behavioral detection system.
-* [luci-app-bandix](https://github.com/timsaya/luci-app-bandix) ⭐ 909 | 🐛 48 | 🌐 JavaScript | 📅 2026-08-18 - A [OpenWrt](https://github.com/openwrt/openwrt) ⭐ 28,104 | 🐛 4,384 | 🌐 C | 📅 2026-08-25 traffic monitoring application
+* [luci-app-bandix](https://github.com/timsaya/luci-app-bandix) ⭐ 912 | 🐛 47 | 🌐 JavaScript | 📅 2026-08-18 - A [OpenWrt](https://github.com/openwrt/openwrt) ⭐ 28,118 | 🐛 4,396 | 🌐 C | 📅 2026-08-27 traffic monitoring application
   * Built on top of [bandix](https://github.com/timsaya/bandix) ⭐ 33 | 🐛 3 | 🌐 Rust | 📅 2026-05-15 core backend, which uses Aya framework for eBPF program loading and management
   * Provides real-time network traffic monitoring
   * Supports LAN/WAN speed monitoring, device TCP/UDP connection monitoring, and DNS monitoring
 * [blixt](https://github.com/kubernetes-sigs/blixt) ⚠️ Archived - A [Kubernetes](https://kubernetes.io) [Gateway API](https://gateway-api.sigs.k8s.io) based Layer 4 Load-Balancer for ingress
-  * Aya is used for eBPF code AND userspace (also uses [Kube-RS](https://github.com/kube-rs/kube) ⭐ 3,805 | 🐛 134 | 🌐 Rust | 📅 2026-08-04 for control-plane)
+  * Aya is used for eBPF code AND userspace (also uses [Kube-RS](https://github.com/kube-rs/kube) ⭐ 3,805 | 🐛 135 | 🌐 Rust | 📅 2026-08-04 for control-plane)
   * TC is used on the Kubernetes nodes for load-balancer functionality
-* [lockc](https://github.com/rancher-sandbox/lockc) ⭐ 234 | 🐛 23 | 🌐 Rust | 📅 2024-06-02 - An eBPF LSM-based MAC security audit system for container workloads
+* [lockc](https://github.com/rancher-sandbox/lockc) ⭐ 233 | 🐛 23 | 🌐 Rust | 📅 2024-06-02 - An eBPF LSM-based MAC security audit system for container workloads
   * Works with Docker and Kubernetes (with containerd CRI)
   * Enforcing 3 pre-defined policy levels on containers
 * [bombini](https://github.com/anfedotoff/bombini) ⭐ 58 | 🐛 5 | 🌐 Rust | 📅 2026-08-24 - An eBPF-based agent for security monitoring
@@ -127,9 +127,9 @@ If you would like to have your project included in this list, please file a pull
 
 ## Acknowledgements
 
-The original idea for [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,966 | 🐛 106 | 📅 2026-08-21 comes from
+The original idea for [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,361 | 🐛 105 | 📅 2026-08-21 comes from
 [Sindre Sorhus](https://github.com/sindresorhus). The format of this repository is based
-on [zoidbergwill's Awesome eBPF list](https://github.com/zoidbergwill/awesome-ebpf) ⭐ 5,150 | 🐛 13 | 📅 2026-08-12.
+on [zoidbergwill's Awesome eBPF list](https://github.com/zoidbergwill/awesome-ebpf) ⭐ 5,151 | 🐛 13 | 📅 2026-08-12.
 
 ## License
 
@@ -139,4 +139,4 @@ All text in this repository is governed by the Creative Commons Attribution-Shar
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._

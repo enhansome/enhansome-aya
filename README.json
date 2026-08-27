@@ -67,7 +67,7 @@
             "last_commit": "2026-07-17T17:33:18Z",
             "owner": "pythops",
             "repo": "oryx",
-            "stars": 2563
+            "stars": 2569
           }
         },
         {
@@ -79,7 +79,7 @@
             "archived": false,
             "id": 548793008,
             "language": "Rust",
-            "last_commit": "2026-07-31T22:01:30Z",
+            "last_commit": "2026-08-26T09:07:06Z",
             "owner": "zz85",
             "repo": "profile-bee",
             "stars": 72
@@ -209,7 +209,7 @@
             "last_commit": "2026-08-18T00:16:39Z",
             "owner": "timsaya",
             "repo": "luci-app-bandix",
-            "stars": 909
+            "stars": 912
           }
         },
         {
@@ -255,7 +255,7 @@
             "last_commit": "2024-06-02T14:22:14Z",
             "owner": "lockc-project",
             "repo": "lockc",
-            "stars": 234
+            "stars": 233
           }
         },
         {
@@ -278,9 +278,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T03:40:11.683Z",
-    "original_repository": "aya-rs/awesome-aya",
-    "original_repository_id": 422014266,
+    "last_updated": "2026-08-27T11:29:38.781Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 422014266,
+      "language": null,
+      "last_commit": "2026-08-04T07:38:05Z",
+      "owner": "aya-rs",
+      "repo": "awesome-aya",
+      "stars": 193
+    },
     "original_repository_sha": "3069f9fa2e03d5091661ca16a1cdac47ce80ddf7",
     "enhanced_repository": "enhansome/enhansome-aya",
     "enhanced_repository_description": null,
