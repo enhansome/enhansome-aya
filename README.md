@@ -127,7 +127,7 @@ If you would like to have your project included in this list, please file a pull
 
 ## Acknowledgements
 
-The original idea for [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,361 | 🐛 105 | 📅 2026-08-21 comes from
+The original idea for [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,380 | 🐛 105 | 📅 2026-08-21 comes from
 [Sindre Sorhus](https://github.com/sindresorhus). The format of this repository is based
 on [zoidbergwill's Awesome eBPF list](https://github.com/zoidbergwill/awesome-ebpf) ⭐ 5,151 | 🐛 13 | 📅 2026-08-12.
 
