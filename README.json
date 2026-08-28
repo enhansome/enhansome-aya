@@ -21,7 +21,8 @@
                 "owner": "aya-rs",
                 "repo": "book",
                 "stars": 145
-              }
+              },
+              "first_seen": "2026-08-28T14:36:12.893Z"
             }
           ],
           "repo_info": {
@@ -32,7 +33,8 @@
             "owner": "aya-rs",
             "repo": "book",
             "stars": 145
-          }
+          },
+          "first_seen": "2026-08-28T14:36:12.893Z"
         },
         {
           "node_type": "item",
@@ -47,7 +49,8 @@
             "owner": "aya-rs",
             "repo": "aya-template",
             "stars": 140
-          }
+          },
+          "first_seen": "2026-08-28T14:36:12.893Z"
         }
       ],
       "title": "Reference Documentation"
@@ -67,8 +70,9 @@
             "last_commit": "2026-07-17T17:33:18Z",
             "owner": "pythops",
             "repo": "oryx",
-            "stars": 2569
-          }
+            "stars": 2570
+          },
+          "first_seen": "2026-08-28T14:36:12.893Z"
         },
         {
           "node_type": "item",
@@ -79,11 +83,12 @@
             "archived": false,
             "id": 548793008,
             "language": "Rust",
-            "last_commit": "2026-08-26T09:07:06Z",
+            "last_commit": "2026-08-28T06:31:36Z",
             "owner": "zz85",
             "repo": "profile-bee",
             "stars": 72
-          }
+          },
+          "first_seen": "2026-08-28T14:36:12.893Z"
         },
         {
           "node_type": "item",
@@ -98,7 +103,8 @@
             "owner": "seanyoung",
             "repo": "cir",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T14:36:12.893Z"
         },
         {
           "node_type": "item",
@@ -113,7 +119,8 @@
             "owner": "willfindlay",
             "repo": "suidsnoop",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T14:36:12.893Z"
         },
         {
           "node_type": "item",
@@ -128,7 +135,8 @@
             "owner": "elbaro",
             "repo": "mybee",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T14:36:12.893Z"
         },
         {
           "node_type": "item",
@@ -143,7 +151,8 @@
             "owner": "pythops",
             "repo": "tamanoir",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T14:36:12.893Z"
         },
         {
           "node_type": "item",
@@ -158,7 +167,8 @@
             "owner": "BRA1L0R",
             "repo": "xdp-loader",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T14:36:12.893Z"
         }
       ],
       "title": "Small Tools that Use Aya"
@@ -179,7 +189,8 @@
             "owner": "kunai-project",
             "repo": "kunai",
             "stars": 1084
-          }
+          },
+          "first_seen": "2026-08-28T14:36:12.893Z"
         },
         {
           "node_type": "item",
@@ -199,7 +210,8 @@
                 "owner": "timsaya",
                 "repo": "bandix",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T14:36:12.893Z"
             }
           ],
           "repo_info": {
@@ -210,7 +222,8 @@
             "owner": "timsaya",
             "repo": "luci-app-bandix",
             "stars": 912
-          }
+          },
+          "first_seen": "2026-08-28T14:36:12.893Z"
         },
         {
           "node_type": "item",
@@ -230,7 +243,8 @@
                 "owner": "kube-rs",
                 "repo": "kube",
                 "stars": 3805
-              }
+              },
+              "first_seen": "2026-08-28T14:36:12.893Z"
             }
           ],
           "repo_info": {
@@ -241,7 +255,8 @@
             "owner": "kubernetes-retired",
             "repo": "blixt",
             "stars": 459
-          }
+          },
+          "first_seen": "2026-08-28T14:36:12.893Z"
         },
         {
           "node_type": "item",
@@ -256,7 +271,8 @@
             "owner": "lockc-project",
             "repo": "lockc",
             "stars": 233
-          }
+          },
+          "first_seen": "2026-08-28T14:36:12.893Z"
         },
         {
           "node_type": "item",
@@ -271,14 +287,15 @@
             "owner": "bombinisecurity",
             "repo": "bombini",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-28T14:36:12.893Z"
         }
       ],
       "title": "Major Projects that Use Aya"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T13:06:42.977Z",
+    "last_updated": "2026-08-28T14:36:12.893Z",
     "original_repository_info": {
       "archived": false,
       "id": 422014266,
