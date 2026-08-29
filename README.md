@@ -78,7 +78,7 @@ If you would like to have your project included in this list, please file a pull
 ## Small Tools that Use Aya
 
 * [oryx](https://github.com/pythops/oryx) ⭐ 2,572 | 🐛 5 | 🌐 Rust | 📅 2026-08-28 - A TUI (Terminal User Interface) for sniffing network traffic.
-* [profile-bee](https://github.com/zz85/profile-bee/) ⭐ 72 | 🐛 24 | 🌐 Rust | 📅 2026-08-29 - CPU profiler with interactive TUI, DWARF unwinding support, and multiple output formats
+* [profile-bee](https://github.com/zz85/profile-bee/) ⭐ 72 | 🐛 25 | 🌐 Rust | 📅 2026-08-29 - CPU profiler with interactive TUI, DWARF unwinding support, and multiple output formats
 * [cir](https://github.com/seanyoung/cir) ⭐ 23 | 🐛 0 | 📅 2024-10-09 - An tool for loading infrared remote control keymaps for Linux
   * Aya is used to load, query and remove eBPF infrared decoders
   * Compiles IRP Notation to eBPF using LLVM
@@ -105,12 +105,12 @@ If you would like to have your project included in this list, please file a pull
   * Utilizes a bunch of Aya-based eBPF probes to generate security-relevant events for various cyber threat hunting and detection tasks.
   * Can serve as a log source for incident response and forensic analysis.
   * With the right rules, it can function as a real-time behavioral detection system.
-* [luci-app-bandix](https://github.com/timsaya/luci-app-bandix) ⭐ 912 | 🐛 47 | 🌐 JavaScript | 📅 2026-08-18 - A [OpenWrt](https://github.com/openwrt/openwrt) ⭐ 28,135 | 🐛 4,404 | 🌐 C | 📅 2026-08-28 traffic monitoring application
+* [luci-app-bandix](https://github.com/timsaya/luci-app-bandix) ⭐ 913 | 🐛 47 | 🌐 JavaScript | 📅 2026-08-18 - A [OpenWrt](https://github.com/openwrt/openwrt) ⭐ 28,135 | 🐛 4,402 | 🌐 C | 📅 2026-08-29 traffic monitoring application
   * Built on top of [bandix](https://github.com/timsaya/bandix) ⭐ 33 | 🐛 3 | 🌐 Rust | 📅 2026-05-15 core backend, which uses Aya framework for eBPF program loading and management
   * Provides real-time network traffic monitoring
   * Supports LAN/WAN speed monitoring, device TCP/UDP connection monitoring, and DNS monitoring
 * [blixt](https://github.com/kubernetes-sigs/blixt) ⚠️ Archived - A [Kubernetes](https://kubernetes.io) [Gateway API](https://gateway-api.sigs.k8s.io) based Layer 4 Load-Balancer for ingress
-  * Aya is used for eBPF code AND userspace (also uses [Kube-RS](https://github.com/kube-rs/kube) ⭐ 3,805 | 🐛 135 | 🌐 Rust | 📅 2026-08-04 for control-plane)
+  * Aya is used for eBPF code AND userspace (also uses [Kube-RS](https://github.com/kube-rs/kube) ⭐ 3,806 | 🐛 136 | 🌐 Rust | 📅 2026-08-29 for control-plane)
   * TC is used on the Kubernetes nodes for load-balancer functionality
 * [lockc](https://github.com/rancher-sandbox/lockc) ⭐ 233 | 🐛 23 | 🌐 Rust | 📅 2024-06-02 - An eBPF LSM-based MAC security audit system for container workloads
   * Works with Docker and Kubernetes (with containerd CRI)
@@ -127,7 +127,7 @@ If you would like to have your project included in this list, please file a pull
 
 ## Acknowledgements
 
-The original idea for [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,894 | 🐛 105 | 📅 2026-08-21 comes from
+The original idea for [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,953 | 🐛 105 | 📅 2026-08-21 comes from
 [Sindre Sorhus](https://github.com/sindresorhus). The format of this repository is based
 on [zoidbergwill's Awesome eBPF list](https://github.com/zoidbergwill/awesome-ebpf) ⭐ 5,153 | 🐛 13 | 📅 2026-08-12.
 
