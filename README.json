@@ -15,24 +15,42 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Aya Book is an introductory book about using the Rust Programming Language and Aya library to build extended Berkley Packet Filter (eBPF) programs.",
+                "homepage": "https://aya-rs.dev/book/",
                 "id": 396094825,
                 "language": "Shell",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-14T20:02:17Z",
+                "open_issues": 26,
                 "owner": "aya-rs",
                 "repo": "book",
-                "stars": 145
+                "stars": 145,
+                "topics": [
+                  "bpf",
+                  "ebpf",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T14:36:12.893Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "The Aya Book is an introductory book about using the Rust Programming Language and Aya library to build extended Berkley Packet Filter (eBPF) programs.",
+            "homepage": "https://aya-rs.dev/book/",
             "id": 396094825,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-14T20:02:17Z",
+            "open_issues": 26,
             "owner": "aya-rs",
             "repo": "book",
-            "stars": 145
+            "stars": 145,
+            "topics": [
+              "bpf",
+              "ebpf",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T14:36:12.893Z"
         },
@@ -43,12 +61,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A cargo-generate template for Rust eBPF Projects using Aya",
+            "homepage": null,
             "id": 392741237,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T22:33:01Z",
+            "open_issues": 6,
             "owner": "aya-rs",
             "repo": "aya-template",
-            "stars": 140
+            "stars": 140,
+            "topics": [
+              "cargo-generate",
+              "ebpf",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T14:36:12.893Z"
         }
@@ -65,12 +92,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🕵️‍♂️ TUI for sniffing network traffic using eBPF on Linux",
+            "homepage": null,
             "id": 850755206,
             "language": "Rust",
-            "last_commit": "2026-07-17T17:33:18Z",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-28T20:14:56Z",
+            "open_issues": 5,
             "owner": "pythops",
             "repo": "oryx",
-            "stars": 2570
+            "stars": 2572,
+            "topics": [
+              "bpf",
+              "ebpf",
+              "firewall",
+              "kernel",
+              "linux",
+              "network",
+              "observability",
+              "ratatui",
+              "rust",
+              "security",
+              "sniffing",
+              "sysadmin",
+              "tui"
+            ]
           },
           "first_seen": "2026-08-28T14:36:12.893Z"
         },
@@ -81,12 +127,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐝🦀🔥 Rust-based eBPF CPU profiler, supports stack unwinding",
+            "homepage": null,
             "id": 548793008,
             "language": "Rust",
-            "last_commit": "2026-08-28T06:31:36Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T00:21:12Z",
+            "open_issues": 24,
             "owner": "zz85",
             "repo": "profile-bee",
-            "stars": 72
+            "stars": 72,
+            "topics": [
+              "aya",
+              "ebpf",
+              "profile",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T14:36:12.893Z"
         },
@@ -97,12 +153,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Linux Infrared Control",
+            "homepage": "https://docs.rs/irp",
             "id": 239769534,
             "language": null,
+            "license": null,
             "last_commit": "2024-10-09T10:48:39Z",
+            "open_issues": 0,
             "owner": "seanyoung",
             "repo": "cir",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:36:12.893Z"
         },
@@ -113,12 +174,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "suidsnoop is a tool based on eBPF LSM programs that logs whenever a suid binary is executed and implements custom allow/deny lists.",
+            "homepage": null,
             "id": 423167197,
             "language": "Rust",
+            "license": null,
             "last_commit": "2021-10-31T23:15:09Z",
+            "open_issues": 0,
             "owner": "willfindlay",
             "repo": "suidsnoop",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "aya",
+              "ebpf",
+              "linux",
+              "linux-kernel",
+              "lsm",
+              "rust",
+              "security",
+              "suid-binaries"
+            ]
           },
           "first_seen": "2026-08-28T14:36:12.893Z"
         },
@@ -129,12 +204,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An eBPF MySQL profiler",
+            "homepage": null,
             "id": 631557581,
             "language": "Rust",
+            "license": null,
             "last_commit": "2023-08-07T04:51:49Z",
+            "open_issues": 1,
             "owner": "elbaro",
             "repo": "mybee",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:36:12.893Z"
         },
@@ -145,12 +225,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " A KeyLogger using eBPF 🐝",
+            "homepage": null,
             "id": 945046156,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2025-03-03T14:52:02Z",
+            "open_issues": 0,
             "owner": "pythops",
             "repo": "tamanoir",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:36:12.893Z"
         },
@@ -161,12 +246,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Configurable XDP loader in Rust. Supports jump table dispatching and program pinning. ",
+            "homepage": null,
             "id": 943770200,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2025-08-28T20:02:38Z",
+            "open_issues": 0,
             "owner": "BRA1L0R",
             "repo": "xdp-loader",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "ebpf",
+              "rust",
+              "xdp"
+            ]
           },
           "first_seen": "2026-08-28T14:36:12.893Z"
         }
@@ -183,12 +277,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Threat-hunting tool for Linux",
+            "homepage": "https://why.kunai.rocks",
             "id": 656723700,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-24T13:10:26Z",
+            "open_issues": 17,
             "owner": "kunai-project",
             "repo": "kunai",
-            "stars": 1084
+            "stars": 1084,
+            "topics": [
+              "ebpf",
+              "linux",
+              "security-monitoring",
+              "threat-detection",
+              "threat-hunting"
+            ]
           },
           "first_seen": "2026-08-28T14:36:12.893Z"
         },
@@ -204,24 +309,44 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A network traffic monitoring tool based on eBPF technology, written in Rust",
+                "homepage": null,
                 "id": 987307940,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-15T14:53:37Z",
+                "open_issues": 3,
                 "owner": "timsaya",
                 "repo": "bandix",
-                "stars": 33
+                "stars": 33,
+                "topics": [
+                  "aya-rs",
+                  "ebpf",
+                  "openwrt",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T14:36:12.893Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "A network traffic monitoring application for OpenWrt",
+            "homepage": null,
             "id": 985787011,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-18T00:16:39Z",
+            "open_issues": 47,
             "owner": "timsaya",
             "repo": "luci-app-bandix",
-            "stars": 912
+            "stars": 912,
+            "topics": [
+              "bandwidth-monitor",
+              "luci-app-bandix",
+              "openwrt",
+              "wrtbwmon"
+            ]
           },
           "first_seen": "2026-08-28T14:36:12.893Z"
         },
@@ -237,24 +362,45 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust Kubernetes client and controller runtime",
+                "homepage": "https://kube.rs",
                 "id": 157133149,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-04T19:14:52Z",
+                "open_issues": 135,
                 "owner": "kube-rs",
                 "repo": "kube",
-                "stars": 3805
+                "stars": 3805,
+                "topics": [
+                  "client",
+                  "kubernetes",
+                  "runtime",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T14:36:12.893Z"
             }
           ],
           "repo_info": {
             "archived": true,
+            "description": "Layer 4 Kubernetes load-balancer",
+            "homepage": null,
             "id": 549763807,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-05T12:32:06Z",
+            "open_issues": 0,
             "owner": "kubernetes-retired",
             "repo": "blixt",
-            "stars": 459
+            "stars": 459,
+            "topics": [
+              "ebpf",
+              "kubernetes",
+              "networking",
+              "operators",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T14:36:12.893Z"
         },
@@ -265,12 +411,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Making containers more secure with eBPF and Linux Security Modules (LSM)",
+            "homepage": "https://lockc-project.github.io/",
             "id": 360682696,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2024-06-02T14:22:14Z",
+            "open_issues": 23,
             "owner": "lockc-project",
             "repo": "lockc",
-            "stars": 233
+            "stars": 233,
+            "topics": [
+              "containers",
+              "ebpf",
+              "kubernetes",
+              "lsm",
+              "lsm-hooks",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T14:36:12.893Z"
         },
@@ -281,12 +439,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "eBPF Security Monitoring and Sandboxing Agent Based on Aya",
+            "homepage": null,
             "id": 864634441,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T10:24:30Z",
+            "open_issues": 5,
             "owner": "bombinisecurity",
             "repo": "bombini",
-            "stars": 58
+            "stars": 58,
+            "topics": [
+              "aya",
+              "bpf",
+              "ebpf",
+              "k8s",
+              "kernel",
+              "kubernetes",
+              "lsm",
+              "observability",
+              "runtime-security",
+              "sandbox",
+              "sandboxing",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T14:36:12.893Z"
         }
@@ -295,15 +471,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T14:36:12.893Z",
+    "last_updated": "2026-08-29T04:55:02.014Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome eBPF 🐝 projects using aya-rs and Rust 🦀",
+      "homepage": null,
       "id": 422014266,
       "language": null,
+      "license": "CC-BY-SA-4.0",
       "last_commit": "2026-08-04T07:38:05Z",
+      "open_issues": 6,
       "owner": "aya-rs",
       "repo": "awesome-aya",
-      "stars": 193
+      "stars": 194,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "aya",
+        "ebpf",
+        "linux",
+        "rust"
+      ]
     },
     "original_repository_sha": "3069f9fa2e03d5091661ca16a1cdac47ce80ddf7",
     "enhanced_repository": "enhansome/enhansome-aya",
