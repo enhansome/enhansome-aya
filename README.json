@@ -24,7 +24,7 @@
                 "open_issues": 29,
                 "owner": "aya-rs",
                 "repo": "book",
-                "stars": 145,
+                "stars": 146,
                 "topics": [
                   "bpf",
                   "ebpf",
@@ -45,7 +45,7 @@
             "open_issues": 29,
             "owner": "aya-rs",
             "repo": "book",
-            "stars": 145,
+            "stars": 146,
             "topics": [
               "bpf",
               "ebpf",
@@ -132,7 +132,7 @@
             "id": 548793008,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-08-29T15:31:33Z",
+            "last_commit": "2026-08-31T08:06:15Z",
             "open_issues": 21,
             "owner": "zz85",
             "repo": "profile-bee",
@@ -318,7 +318,7 @@
                 "open_issues": 3,
                 "owner": "timsaya",
                 "repo": "bandix",
-                "stars": 33,
+                "stars": 34,
                 "topics": [
                   "aya-rs",
                   "ebpf",
@@ -340,7 +340,7 @@
             "open_issues": 47,
             "owner": "timsaya",
             "repo": "luci-app-bandix",
-            "stars": 913,
+            "stars": 914,
             "topics": [
               "bandwidth-monitor",
               "luci-app-bandix",
@@ -444,8 +444,8 @@
             "id": 864634441,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-24T10:24:30Z",
-            "open_issues": 5,
+            "last_commit": "2026-08-30T18:40:19Z",
+            "open_issues": 6,
             "owner": "bombinisecurity",
             "repo": "bombini",
             "stars": 58,
@@ -471,7 +471,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T08:33:07.715Z",
+    "last_updated": "2026-08-31T08:55:14.057Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome eBPF 🐝 projects using aya-rs and Rust 🦀",
@@ -483,7 +483,7 @@
       "open_issues": 6,
       "owner": "aya-rs",
       "repo": "awesome-aya",
-      "stars": 194,
+      "stars": 195,
       "topics": [
         "awesome",
         "awesome-list",
