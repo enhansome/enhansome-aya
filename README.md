@@ -5,7 +5,7 @@
 eBPF is a technology that allows running user-supplied programs inside the Linux kernel.
 For more info see <https://ebpf.io/what-is-ebpf>.
 
-[Aya](https://github.com/aya-rs/aya) ⭐ 4,789 | 🐛 210 | 🌐 Rust | 📅 2026-09-01 is an eBPF library built with a focus on operability
+[Aya](https://github.com/aya-rs/aya) ⭐ 4,790 | 🐛 210 | 🌐 Rust | 📅 2026-09-03 is an eBPF library built with a focus on operability
 and developer experience. It does not rely on libbpf nor bcc - it's built from the ground
 up purely in Rust, using only the libc crate to execute syscalls. With BTF support and
 when linked with musl, it offers a true compile once, run everywhere solution, where
@@ -77,7 +77,7 @@ If you would like to have your project included in this list, please file a pull
 
 ## Small Tools that Use Aya
 
-* [oryx](https://github.com/pythops/oryx) ⭐ 2,572 | 🐛 5 | 🌐 Rust | 📅 2026-09-01 - A TUI (Terminal User Interface) for sniffing network traffic.
+* [oryx](https://github.com/pythops/oryx) ⭐ 2,573 | 🐛 5 | 🌐 Rust | 📅 2026-09-01 - A TUI (Terminal User Interface) for sniffing network traffic.
 * [profile-bee](https://github.com/zz85/profile-bee/) ⭐ 72 | 🐛 21 | 🌐 Rust | 📅 2026-09-01 - CPU profiler with interactive TUI, DWARF unwinding support, and multiple output formats
 * [cir](https://github.com/seanyoung/cir) ⭐ 23 | 🐛 0 | 📅 2024-10-09 - An tool for loading infrared remote control keymaps for Linux
   * Aya is used to load, query and remove eBPF infrared decoders
@@ -105,7 +105,7 @@ If you would like to have your project included in this list, please file a pull
   * Utilizes a bunch of Aya-based eBPF probes to generate security-relevant events for various cyber threat hunting and detection tasks.
   * Can serve as a log source for incident response and forensic analysis.
   * With the right rules, it can function as a real-time behavioral detection system.
-* [luci-app-bandix](https://github.com/timsaya/luci-app-bandix) ⭐ 917 | 🐛 47 | 🌐 JavaScript | 📅 2026-08-18 - A [OpenWrt](https://github.com/openwrt/openwrt) ⭐ 28,188 | 🐛 4,418 | 🌐 C | 📅 2026-09-01 traffic monitoring application
+* [luci-app-bandix](https://github.com/timsaya/luci-app-bandix) ⭐ 920 | 🐛 47 | 🌐 JavaScript | 📅 2026-08-18 - A [OpenWrt](https://github.com/openwrt/openwrt) ⭐ 28,221 | 🐛 4,429 | 🌐 C | 📅 2026-09-02 traffic monitoring application
   * Built on top of [bandix](https://github.com/timsaya/bandix) ⭐ 34 | 🐛 3 | 🌐 Rust | 📅 2026-05-15 core backend, which uses Aya framework for eBPF program loading and management
   * Provides real-time network traffic monitoring
   * Supports LAN/WAN speed monitoring, device TCP/UDP connection monitoring, and DNS monitoring
@@ -115,7 +115,7 @@ If you would like to have your project included in this list, please file a pull
 * [lockc](https://github.com/rancher-sandbox/lockc) ⭐ 233 | 🐛 23 | 🌐 Rust | 📅 2024-06-02 - An eBPF LSM-based MAC security audit system for container workloads
   * Works with Docker and Kubernetes (with containerd CRI)
   * Enforcing 3 pre-defined policy levels on containers
-* [bombini](https://github.com/anfedotoff/bombini) ⭐ 58 | 🐛 14 | 🌐 Rust | 📅 2026-09-01 - An eBPF-based agent for security monitoring
+* [bombini](https://github.com/anfedotoff/bombini) ⭐ 59 | 🐛 14 | 🌐 Rust | 📅 2026-09-01 - An eBPF-based agent for security monitoring
   * Using Aya to implement detectors with various event types: process execution, network connections, file access, etc.
   * Provides specialized detectors for detecting malicious activity like [GTFObins](https://gtfobins.github.io/) execution
 
@@ -127,9 +127,9 @@ If you would like to have your project included in this list, please file a pull
 
 ## Acknowledgements
 
-The original idea for [awesome](https://github.com/sindresorhus/awesome) ⭐ 502,133 | 🐛 105 | 📅 2026-09-02 comes from
+The original idea for [awesome](https://github.com/sindresorhus/awesome) ⭐ 502,505 | 🐛 105 | 📅 2026-09-02 comes from
 [Sindre Sorhus](https://github.com/sindresorhus). The format of this repository is based
-on [zoidbergwill's Awesome eBPF list](https://github.com/zoidbergwill/awesome-ebpf) ⭐ 5,154 | 🐛 13 | 📅 2026-08-12.
+on [zoidbergwill's Awesome eBPF list](https://github.com/zoidbergwill/awesome-ebpf) ⭐ 5,155 | 🐛 13 | 📅 2026-08-12.
 
 ## License
 
@@ -139,4 +139,4 @@ All text in this repository is governed by the Creative Commons Attribution-Shar
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._

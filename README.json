@@ -101,7 +101,7 @@
             "open_issues": 5,
             "owner": "pythops",
             "repo": "oryx",
-            "stars": 2572,
+            "stars": 2573,
             "topics": [
               "bpf",
               "ebpf",
@@ -340,7 +340,7 @@
             "open_issues": 47,
             "owner": "timsaya",
             "repo": "luci-app-bandix",
-            "stars": 917,
+            "stars": 920,
             "topics": [
               "bandwidth-monitor",
               "luci-app-bandix",
@@ -448,7 +448,7 @@
             "open_issues": 14,
             "owner": "bombinisecurity",
             "repo": "bombini",
-            "stars": 58,
+            "stars": 59,
             "topics": [
               "aya",
               "bpf",
@@ -471,7 +471,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T07:20:07.680Z",
+    "last_updated": "2026-09-03T07:23:21.890Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome eBPF 🐝 projects using aya-rs and Rust 🦀",
