@@ -5,7 +5,7 @@
 eBPF is a technology that allows running user-supplied programs inside the Linux kernel.
 For more info see <https://ebpf.io/what-is-ebpf>.
 
-[Aya](https://github.com/aya-rs/aya) ⭐ 4,790 | 🐛 210 | 🌐 Rust | 📅 2026-09-03 is an eBPF library built with a focus on operability
+[Aya](https://github.com/aya-rs/aya) ⭐ 4,792 | 🐛 210 | 🌐 Rust | 📅 2026-09-04 is an eBPF library built with a focus on operability
 and developer experience. It does not rely on libbpf nor bcc - it's built from the ground
 up purely in Rust, using only the libc crate to execute syscalls. With BTF support and
 when linked with musl, it offers a true compile once, run everywhere solution, where
@@ -43,8 +43,8 @@ If you would like to have your project included in this list, please file a pull
 
 ## Reference Documentation
 
-* [The Aya Book](https://github.com/aya-rs/book) ⭐ 147 | 🐛 29 | 🌐 Shell | 📅 2026-09-01 - The official Aya book, currently a work in progress
-  * Some code examples are [available here](https://github.com/aya-rs/book/tree/main/examples) ⭐ 147 | 🐛 29 | 🌐 Shell | 📅 2026-09-01
+* [The Aya Book](https://github.com/aya-rs/book) ⭐ 148 | 🐛 29 | 🌐 Shell | 📅 2026-09-01 - The official Aya book, currently a work in progress
+  * Some code examples are [available here](https://github.com/aya-rs/book/tree/main/examples) ⭐ 148 | 🐛 29 | 🌐 Shell | 📅 2026-09-01
   * Compiled mdbook version is [available here](https://aya-rs.github.io/book/)
 * [Aya templates for `cargo-generate`](https://github.com/aya-rs/aya-template) ⭐ 140 | 🐛 6 | 🌐 Rust | 📅 2026-08-31 - An easy way to generate a new Aya project using [`cargo-generate`](https://github.com/cargo-generate/cargo-generate) ⭐ 2,485 | 🐛 27 | 🌐 Rust | 📅 2026-08-31
 * [The official Aya Discord server](https://discord.gg/xHW2cb2N6G) - Community support and discussion
@@ -101,21 +101,21 @@ If you would like to have your project included in this list, please file a pull
 
 ## Major Projects that Use Aya
 
-* [kunai](https://github.com/kunai-project/kunai) ⭐ 1,084 | 🐛 17 | 🌐 Rust | 📅 2026-08-24 - A threat hunting/detection security monitoring tool:
+* [kunai](https://github.com/kunai-project/kunai) ⭐ 1,085 | 🐛 17 | 🌐 Rust | 📅 2026-08-24 - A threat hunting/detection security monitoring tool:
   * Utilizes a bunch of Aya-based eBPF probes to generate security-relevant events for various cyber threat hunting and detection tasks.
   * Can serve as a log source for incident response and forensic analysis.
   * With the right rules, it can function as a real-time behavioral detection system.
-* [luci-app-bandix](https://github.com/timsaya/luci-app-bandix) ⭐ 920 | 🐛 47 | 🌐 JavaScript | 📅 2026-08-18 - A [OpenWrt](https://github.com/openwrt/openwrt) ⭐ 28,221 | 🐛 4,429 | 🌐 C | 📅 2026-09-02 traffic monitoring application
+* [luci-app-bandix](https://github.com/timsaya/luci-app-bandix) ⭐ 923 | 🐛 47 | 🌐 JavaScript | 📅 2026-08-18 - A [OpenWrt](https://github.com/openwrt/openwrt) ⭐ 28,262 | 🐛 4,438 | 🌐 C | 📅 2026-09-03 traffic monitoring application
   * Built on top of [bandix](https://github.com/timsaya/bandix) ⭐ 34 | 🐛 3 | 🌐 Rust | 📅 2026-05-15 core backend, which uses Aya framework for eBPF program loading and management
   * Provides real-time network traffic monitoring
   * Supports LAN/WAN speed monitoring, device TCP/UDP connection monitoring, and DNS monitoring
 * [blixt](https://github.com/kubernetes-sigs/blixt) ⚠️ Archived - A [Kubernetes](https://kubernetes.io) [Gateway API](https://gateway-api.sigs.k8s.io) based Layer 4 Load-Balancer for ingress
-  * Aya is used for eBPF code AND userspace (also uses [Kube-RS](https://github.com/kube-rs/kube) ⭐ 3,809 | 🐛 134 | 🌐 Rust | 📅 2026-08-29 for control-plane)
+  * Aya is used for eBPF code AND userspace (also uses [Kube-RS](https://github.com/kube-rs/kube) ⭐ 3,809 | 🐛 133 | 🌐 Rust | 📅 2026-09-04 for control-plane)
   * TC is used on the Kubernetes nodes for load-balancer functionality
 * [lockc](https://github.com/rancher-sandbox/lockc) ⭐ 233 | 🐛 23 | 🌐 Rust | 📅 2024-06-02 - An eBPF LSM-based MAC security audit system for container workloads
   * Works with Docker and Kubernetes (with containerd CRI)
   * Enforcing 3 pre-defined policy levels on containers
-* [bombini](https://github.com/anfedotoff/bombini) ⭐ 59 | 🐛 14 | 🌐 Rust | 📅 2026-09-01 - An eBPF-based agent for security monitoring
+* [bombini](https://github.com/anfedotoff/bombini) ⭐ 59 | 🐛 9 | 🌐 Rust | 📅 2026-09-03 - An eBPF-based agent for security monitoring
   * Using Aya to implement detectors with various event types: process execution, network connections, file access, etc.
   * Provides specialized detectors for detecting malicious activity like [GTFObins](https://gtfobins.github.io/) execution
 
@@ -127,9 +127,9 @@ If you would like to have your project included in this list, please file a pull
 
 ## Acknowledgements
 
-The original idea for [awesome](https://github.com/sindresorhus/awesome) ⭐ 502,505 | 🐛 105 | 📅 2026-09-02 comes from
+The original idea for [awesome](https://github.com/sindresorhus/awesome) ⭐ 502,802 | 🐛 106 | 📅 2026-09-02 comes from
 [Sindre Sorhus](https://github.com/sindresorhus). The format of this repository is based
-on [zoidbergwill's Awesome eBPF list](https://github.com/zoidbergwill/awesome-ebpf) ⭐ 5,155 | 🐛 13 | 📅 2026-08-12.
+on [zoidbergwill's Awesome eBPF list](https://github.com/zoidbergwill/awesome-ebpf) ⭐ 5,156 | 🐛 13 | 📅 2026-08-12.
 
 ## License
 
@@ -139,4 +139,4 @@ All text in this repository is governed by the Creative Commons Attribution-Shar
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._

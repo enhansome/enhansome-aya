@@ -24,7 +24,7 @@
                 "open_issues": 29,
                 "owner": "aya-rs",
                 "repo": "book",
-                "stars": 147,
+                "stars": 148,
                 "topics": [
                   "bpf",
                   "ebpf",
@@ -45,7 +45,7 @@
             "open_issues": 29,
             "owner": "aya-rs",
             "repo": "book",
-            "stars": 147,
+            "stars": 148,
             "topics": [
               "bpf",
               "ebpf",
@@ -286,7 +286,7 @@
             "open_issues": 17,
             "owner": "kunai-project",
             "repo": "kunai",
-            "stars": 1084,
+            "stars": 1085,
             "topics": [
               "ebpf",
               "linux",
@@ -340,7 +340,7 @@
             "open_issues": 47,
             "owner": "timsaya",
             "repo": "luci-app-bandix",
-            "stars": 920,
+            "stars": 923,
             "topics": [
               "bandwidth-monitor",
               "luci-app-bandix",
@@ -367,8 +367,8 @@
                 "id": 157133149,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T13:10:43Z",
-                "open_issues": 134,
+                "last_commit": "2026-09-04T02:15:33Z",
+                "open_issues": 133,
                 "owner": "kube-rs",
                 "repo": "kube",
                 "stars": 3809,
@@ -444,8 +444,8 @@
             "id": 864634441,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-01T19:38:28Z",
-            "open_issues": 14,
+            "last_commit": "2026-09-03T12:50:04Z",
+            "open_issues": 9,
             "owner": "bombinisecurity",
             "repo": "bombini",
             "stars": 59,
@@ -471,7 +471,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T07:23:21.890Z",
+    "last_updated": "2026-09-04T07:25:42.061Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome eBPF 🐝 projects using aya-rs and Rust 🦀",
