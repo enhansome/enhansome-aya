@@ -66,7 +66,7 @@
             "id": 392741237,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-31T22:38:14Z",
+            "last_commit": "2026-09-07T23:57:14Z",
             "open_issues": 6,
             "owner": "aya-rs",
             "repo": "aya-template",
@@ -340,7 +340,7 @@
             "open_issues": 45,
             "owner": "timsaya",
             "repo": "luci-app-bandix",
-            "stars": 928,
+            "stars": 931,
             "topics": [
               "bandwidth-monitor",
               "luci-app-bandix",
@@ -367,11 +367,11 @@
                 "id": 157133149,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-05T21:53:52Z",
-                "open_issues": 132,
+                "last_commit": "2026-09-07T13:43:56Z",
+                "open_issues": 133,
                 "owner": "kube-rs",
                 "repo": "kube",
-                "stars": 3814,
+                "stars": 3815,
                 "topics": [
                   "client",
                   "kubernetes",
@@ -444,8 +444,8 @@
             "id": 864634441,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-03T12:50:04Z",
-            "open_issues": 10,
+            "last_commit": "2026-09-07T13:44:12Z",
+            "open_issues": 11,
             "owner": "bombinisecurity",
             "repo": "bombini",
             "stars": 59,
@@ -471,7 +471,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T07:33:26.572Z",
+    "last_updated": "2026-09-08T07:26:41.689Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome eBPF 🐝 projects using aya-rs and Rust 🦀",
