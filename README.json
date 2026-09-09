@@ -101,7 +101,7 @@
             "open_issues": 5,
             "owner": "pythops",
             "repo": "oryx",
-            "stars": 2574,
+            "stars": 2575,
             "topics": [
               "bpf",
               "ebpf",
@@ -132,7 +132,7 @@
             "id": 548793008,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-01T19:24:38Z",
+            "last_commit": "2026-09-08T23:04:13Z",
             "open_issues": 21,
             "owner": "zz85",
             "repo": "profile-bee",
@@ -255,7 +255,7 @@
             "open_issues": 0,
             "owner": "BRA1L0R",
             "repo": "xdp-loader",
-            "stars": 1,
+            "stars": 2,
             "topics": [
               "ebpf",
               "rust",
@@ -340,7 +340,7 @@
             "open_issues": 45,
             "owner": "timsaya",
             "repo": "luci-app-bandix",
-            "stars": 931,
+            "stars": 932,
             "topics": [
               "bandwidth-monitor",
               "luci-app-bandix",
@@ -367,8 +367,8 @@
                 "id": 157133149,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-07T13:43:56Z",
-                "open_issues": 133,
+                "last_commit": "2026-09-09T03:37:24Z",
+                "open_issues": 136,
                 "owner": "kube-rs",
                 "repo": "kube",
                 "stars": 3815,
@@ -471,7 +471,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T07:26:41.689Z",
+    "last_updated": "2026-09-09T07:34:39.681Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome eBPF 🐝 projects using aya-rs and Rust 🦀",
@@ -483,7 +483,7 @@
       "open_issues": 6,
       "owner": "aya-rs",
       "repo": "awesome-aya",
-      "stars": 195,
+      "stars": 196,
       "topics": [
         "awesome",
         "awesome-list",
