@@ -367,11 +367,11 @@
                 "id": 157133149,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-09T03:37:24Z",
-                "open_issues": 136,
+                "last_commit": "2026-09-11T11:49:35Z",
+                "open_issues": 135,
                 "owner": "kube-rs",
                 "repo": "kube",
-                "stars": 3816,
+                "stars": 3817,
                 "topics": [
                   "client",
                   "kubernetes",
@@ -471,7 +471,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T07:29:20.863Z",
+    "last_updated": "2026-09-12T07:21:24.221Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome eBPF 🐝 projects using aya-rs and Rust 🦀",
@@ -483,7 +483,7 @@
       "open_issues": 6,
       "owner": "aya-rs",
       "repo": "awesome-aya",
-      "stars": 196,
+      "stars": 197,
       "topics": [
         "awesome",
         "awesome-list",
