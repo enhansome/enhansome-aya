@@ -66,7 +66,7 @@
             "id": 392741237,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-07T23:57:14Z",
+            "last_commit": "2026-09-15T00:16:24Z",
             "open_issues": 6,
             "owner": "aya-rs",
             "repo": "aya-template",
@@ -340,7 +340,7 @@
             "open_issues": 45,
             "owner": "timsaya",
             "repo": "luci-app-bandix",
-            "stars": 935,
+            "stars": 938,
             "topics": [
               "bandwidth-monitor",
               "luci-app-bandix",
@@ -368,10 +368,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-14T01:28:51Z",
-                "open_issues": 134,
+                "open_issues": 135,
                 "owner": "kube-rs",
                 "repo": "kube",
-                "stars": 3819,
+                "stars": 3821,
                 "topics": [
                   "client",
                   "kubernetes",
@@ -420,7 +420,7 @@
             "open_issues": 23,
             "owner": "lockc-project",
             "repo": "lockc",
-            "stars": 233,
+            "stars": 232,
             "topics": [
               "containers",
               "ebpf",
@@ -444,11 +444,11 @@
             "id": 864634441,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T14:42:24Z",
-            "open_issues": 11,
+            "last_commit": "2026-09-14T21:11:41Z",
+            "open_issues": 14,
             "owner": "bombinisecurity",
             "repo": "bombini",
-            "stars": 59,
+            "stars": 64,
             "topics": [
               "aya",
               "bpf",
@@ -471,7 +471,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T08:07:21.977Z",
+    "last_updated": "2026-09-15T08:02:06.384Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome eBPF 🐝 projects using aya-rs and Rust 🦀",
