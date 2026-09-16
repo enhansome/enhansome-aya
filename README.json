@@ -368,7 +368,7 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-14T01:28:51Z",
-                "open_issues": 135,
+                "open_issues": 136,
                 "owner": "kube-rs",
                 "repo": "kube",
                 "stars": 3821,
@@ -444,8 +444,8 @@
             "id": 864634441,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-14T21:11:41Z",
-            "open_issues": 14,
+            "last_commit": "2026-09-16T07:34:32Z",
+            "open_issues": 11,
             "owner": "bombinisecurity",
             "repo": "bombini",
             "stars": 64,
@@ -471,7 +471,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T08:02:06.384Z",
+    "last_updated": "2026-09-16T07:55:27.953Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome eBPF 🐝 projects using aya-rs and Rust 🦀",
