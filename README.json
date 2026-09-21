@@ -20,7 +20,7 @@
                 "id": 396094825,
                 "language": "Shell",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-19T15:42:28Z",
+                "last_commit": "2026-09-20T08:41:54Z",
                 "open_issues": 30,
                 "owner": "aya-rs",
                 "repo": "book",
@@ -41,7 +41,7 @@
             "id": 396094825,
             "language": "Shell",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-19T15:42:28Z",
+            "last_commit": "2026-09-20T08:41:54Z",
             "open_issues": 30,
             "owner": "aya-rs",
             "repo": "book",
@@ -286,7 +286,7 @@
             "open_issues": 17,
             "owner": "kunai-project",
             "repo": "kunai",
-            "stars": 1089,
+            "stars": 1090,
             "topics": [
               "ebpf",
               "linux",
@@ -340,7 +340,7 @@
             "open_issues": 44,
             "owner": "timsaya",
             "repo": "luci-app-bandix",
-            "stars": 939,
+            "stars": 940,
             "topics": [
               "bandwidth-monitor",
               "luci-app-bandix",
@@ -368,7 +368,7 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-20T06:53:47Z",
-                "open_issues": 134,
+                "open_issues": 135,
                 "owner": "kube-rs",
                 "repo": "kube",
                 "stars": 3825,
@@ -448,7 +448,7 @@
             "open_issues": 11,
             "owner": "bombinisecurity",
             "repo": "bombini",
-            "stars": 65,
+            "stars": 67,
             "topics": [
               "aya",
               "bpf",
@@ -471,7 +471,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T07:55:51.914Z",
+    "last_updated": "2026-09-21T08:13:13.738Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome eBPF 🐝 projects using aya-rs and Rust 🦀",
