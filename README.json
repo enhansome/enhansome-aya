@@ -101,7 +101,7 @@
             "open_issues": 5,
             "owner": "pythops",
             "repo": "oryx",
-            "stars": 2586,
+            "stars": 2587,
             "topics": [
               "bpf",
               "ebpf",
@@ -282,8 +282,8 @@
             "id": 656723700,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-23T13:22:47Z",
-            "open_issues": 15,
+            "last_commit": "2026-09-29T16:36:44Z",
+            "open_issues": 16,
             "owner": "kunai-project",
             "repo": "kunai",
             "stars": 1092,
@@ -337,7 +337,7 @@
             "language": "JavaScript",
             "license": "Apache-2.0",
             "last_commit": "2026-09-28T14:35:46Z",
-            "open_issues": 44,
+            "open_issues": 47,
             "owner": "timsaya",
             "repo": "luci-app-bandix",
             "stars": 950,
@@ -367,11 +367,11 @@
                 "id": 157133149,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-29T04:45:26Z",
-                "open_issues": 133,
+                "last_commit": "2026-09-30T08:36:13Z",
+                "open_issues": 127,
                 "owner": "kube-rs",
                 "repo": "kube",
-                "stars": 3834,
+                "stars": 3835,
                 "topics": [
                   "client",
                   "kubernetes",
@@ -448,7 +448,7 @@
             "open_issues": 10,
             "owner": "bombinisecurity",
             "repo": "bombini",
-            "stars": 68,
+            "stars": 72,
             "topics": [
               "aya",
               "bpf",
@@ -471,7 +471,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T09:04:39.654Z",
+    "last_updated": "2026-09-30T09:01:43.146Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome eBPF 🐝 projects using aya-rs and Rust 🦀",
