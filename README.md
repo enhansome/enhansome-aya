@@ -5,7 +5,7 @@
 eBPF is a technology that allows running user-supplied programs inside the Linux kernel.
 For more info see <https://ebpf.io/what-is-ebpf>.
 
-[Aya](https://github.com/aya-rs/aya) ⭐ 4,837 | 🐛 203 | 🌐 Rust | 📅 2026-10-03 is an eBPF library built with a focus on operability
+[Aya](https://github.com/aya-rs/aya) ⭐ 4,838 | 🐛 203 | 🌐 Rust | 📅 2026-10-03 is an eBPF library built with a focus on operability
 and developer experience. It does not rely on libbpf nor bcc - it's built from the ground
 up purely in Rust, using only the libc crate to execute syscalls. With BTF support and
 when linked with musl, it offers a true compile once, run everywhere solution, where
@@ -43,8 +43,8 @@ If you would like to have your project included in this list, please file a pull
 
 ## Reference Documentation
 
-* [The Aya Book](https://github.com/aya-rs/book) ⭐ 150 | 🐛 30 | 🌐 Shell | 📅 2026-09-20 - The official Aya book, currently a work in progress
-  * Some code examples are [available here](https://github.com/aya-rs/book/tree/main/examples) ⭐ 150 | 🐛 30 | 🌐 Shell | 📅 2026-09-20
+* [The Aya Book](https://github.com/aya-rs/book) ⭐ 151 | 🐛 30 | 🌐 Shell | 📅 2026-09-20 - The official Aya book, currently a work in progress
+  * Some code examples are [available here](https://github.com/aya-rs/book/tree/main/examples) ⭐ 151 | 🐛 30 | 🌐 Shell | 📅 2026-09-20
   * Compiled mdbook version is [available here](https://aya-rs.github.io/book/)
 * [Aya templates for `cargo-generate`](https://github.com/aya-rs/aya-template) ⭐ 144 | 🐛 6 | 🌐 Rust | 📅 2026-09-29 - An easy way to generate a new Aya project using [`cargo-generate`](https://github.com/cargo-generate/cargo-generate) ⭐ 2,487 | 🐛 32 | 🌐 Rust | 📅 2026-09-28
 * [The official Aya Discord server](https://discord.gg/xHW2cb2N6G) - Community support and discussion
@@ -105,7 +105,7 @@ If you would like to have your project included in this list, please file a pull
   * Utilizes a bunch of Aya-based eBPF probes to generate security-relevant events for various cyber threat hunting and detection tasks.
   * Can serve as a log source for incident response and forensic analysis.
   * With the right rules, it can function as a real-time behavioral detection system.
-* [luci-app-bandix](https://github.com/timsaya/luci-app-bandix) ⭐ 971 | 🐛 50 | 🌐 JavaScript | 📅 2026-09-28 - A [OpenWrt](https://github.com/openwrt/openwrt) ⭐ 28,616 | 🐛 4,555 | 🌐 C | 📅 2026-10-02 traffic monitoring application
+* [luci-app-bandix](https://github.com/timsaya/luci-app-bandix) ⭐ 971 | 🐛 50 | 🌐 JavaScript | 📅 2026-09-28 - A [OpenWrt](https://github.com/openwrt/openwrt) ⭐ 28,616 | 🐛 4,555 | 🌐 C | 📅 2026-10-03 traffic monitoring application
   * Built on top of [bandix](https://github.com/timsaya/bandix) ⭐ 38 | 🐛 3 | 🌐 Rust | 📅 2026-09-28 core backend, which uses Aya framework for eBPF program loading and management
   * Provides real-time network traffic monitoring
   * Supports LAN/WAN speed monitoring, device TCP/UDP connection monitoring, and DNS monitoring
@@ -127,7 +127,7 @@ If you would like to have your project included in this list, please file a pull
 
 ## Acknowledgements
 
-The original idea for [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,795 | 🐛 106 | 📅 2026-09-02 comes from
+The original idea for [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,857 | 🐛 106 | 📅 2026-09-02 comes from
 [Sindre Sorhus](https://github.com/sindresorhus). The format of this repository is based
 on [zoidbergwill's Awesome eBPF list](https://github.com/zoidbergwill/awesome-ebpf) ⭐ 5,178 | 🐛 19 | 📅 2026-09-14.
 
