@@ -101,7 +101,7 @@
             "open_issues": 5,
             "owner": "pythops",
             "repo": "oryx",
-            "stars": 2593,
+            "stars": 2595,
             "topics": [
               "bpf",
               "ebpf",
@@ -282,11 +282,11 @@
             "id": 656723700,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-05T14:12:40Z",
-            "open_issues": 16,
+            "last_commit": "2026-10-08T14:52:19Z",
+            "open_issues": 15,
             "owner": "kunai-project",
             "repo": "kunai",
-            "stars": 1091,
+            "stars": 1092,
             "topics": [
               "ebpf",
               "linux",
@@ -471,7 +471,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T09:30:32.939Z",
+    "last_updated": "2026-10-09T09:39:47.000Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome eBPF 🐝 projects using aya-rs and Rust 🦀",
@@ -483,7 +483,7 @@
       "open_issues": 7,
       "owner": "aya-rs",
       "repo": "awesome-aya",
-      "stars": 199,
+      "stars": 200,
       "topics": [
         "awesome",
         "awesome-list",
