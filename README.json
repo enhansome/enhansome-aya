@@ -20,7 +20,7 @@
                 "id": 396094825,
                 "language": "Shell",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-20T08:41:54Z",
+                "last_commit": "2026-10-15T07:04:34Z",
                 "open_issues": 30,
                 "owner": "aya-rs",
                 "repo": "book",
@@ -41,7 +41,7 @@
             "id": 396094825,
             "language": "Shell",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-20T08:41:54Z",
+            "last_commit": "2026-10-15T07:04:34Z",
             "open_issues": 30,
             "owner": "aya-rs",
             "repo": "book",
@@ -66,7 +66,7 @@
             "id": 392741237,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-14T07:26:23Z",
+            "last_commit": "2026-10-15T07:05:28Z",
             "open_issues": 7,
             "owner": "aya-rs",
             "repo": "aya-template",
@@ -282,11 +282,11 @@
             "id": 656723700,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-13T14:11:47Z",
+            "last_commit": "2026-10-15T07:44:28Z",
             "open_issues": 15,
             "owner": "kunai-project",
             "repo": "kunai",
-            "stars": 1089,
+            "stars": 1090,
             "topics": [
               "ebpf",
               "linux",
@@ -318,7 +318,7 @@
                 "open_issues": 3,
                 "owner": "timsaya",
                 "repo": "bandix",
-                "stars": 36,
+                "stars": 37,
                 "topics": [
                   "aya-rs",
                   "ebpf",
@@ -340,7 +340,7 @@
             "open_issues": 50,
             "owner": "timsaya",
             "repo": "luci-app-bandix",
-            "stars": 989,
+            "stars": 990,
             "topics": [
               "bandwidth-monitor",
               "luci-app-bandix",
@@ -371,7 +371,7 @@
                 "open_issues": 129,
                 "owner": "kube-rs",
                 "repo": "kube",
-                "stars": 3845,
+                "stars": 3846,
                 "topics": [
                   "client",
                   "kubernetes",
@@ -471,7 +471,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T08:02:44.128Z",
+    "last_updated": "2026-10-15T07:44:34.995Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome eBPF 🐝 projects using aya-rs and Rust 🦀",
