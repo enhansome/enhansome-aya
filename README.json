@@ -282,7 +282,7 @@
             "id": 656723700,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-23T07:35:24Z",
+            "last_commit": "2026-10-23T12:04:08Z",
             "open_issues": 15,
             "owner": "kunai-project",
             "repo": "kunai",
@@ -340,7 +340,7 @@
             "open_issues": 50,
             "owner": "timsaya",
             "repo": "luci-app-bandix",
-            "stars": 991,
+            "stars": 992,
             "topics": [
               "bandwidth-monitor",
               "luci-app-bandix",
@@ -371,7 +371,7 @@
                 "open_issues": 129,
                 "owner": "kube-rs",
                 "repo": "kube",
-                "stars": 3848,
+                "stars": 3849,
                 "topics": [
                   "client",
                   "kubernetes",
@@ -393,7 +393,7 @@
             "open_issues": 0,
             "owner": "kubernetes-retired",
             "repo": "blixt",
-            "stars": 459,
+            "stars": 458,
             "topics": [
               "ebpf",
               "kubernetes",
@@ -471,7 +471,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T07:57:13.152Z",
+    "last_updated": "2026-10-24T07:36:48.973Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome eBPF 🐝 projects using aya-rs and Rust 🦀",
