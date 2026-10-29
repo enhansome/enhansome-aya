@@ -24,7 +24,7 @@
                 "open_issues": 30,
                 "owner": "aya-rs",
                 "repo": "book",
-                "stars": 153,
+                "stars": 154,
                 "topics": [
                   "bpf",
                   "ebpf",
@@ -45,7 +45,7 @@
             "open_issues": 30,
             "owner": "aya-rs",
             "repo": "book",
-            "stars": 153,
+            "stars": 154,
             "topics": [
               "bpf",
               "ebpf",
@@ -315,7 +315,7 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-27T00:45:08Z",
-                "open_issues": 3,
+                "open_issues": 2,
                 "owner": "timsaya",
                 "repo": "bandix",
                 "stars": 37,
@@ -337,10 +337,10 @@
             "language": "JavaScript",
             "license": "Apache-2.0",
             "last_commit": "2026-10-27T00:55:12Z",
-            "open_issues": 47,
+            "open_issues": 46,
             "owner": "timsaya",
             "repo": "luci-app-bandix",
-            "stars": 995,
+            "stars": 999,
             "topics": [
               "bandwidth-monitor",
               "luci-app-bandix",
@@ -371,7 +371,7 @@
                 "open_issues": 131,
                 "owner": "kube-rs",
                 "repo": "kube",
-                "stars": 3853,
+                "stars": 3854,
                 "topics": [
                   "client",
                   "kubernetes",
@@ -471,7 +471,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T09:00:14.702Z",
+    "last_updated": "2026-10-29T08:56:38.275Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome eBPF 🐝 projects using aya-rs and Rust 🦀",
