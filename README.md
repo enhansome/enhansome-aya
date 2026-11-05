@@ -5,7 +5,7 @@
 eBPF is a technology that allows running user-supplied programs inside the Linux kernel.
 For more info see <https://ebpf.io/what-is-ebpf>.
 
-[Aya](https://github.com/aya-rs/aya) ⭐ 4,892 | 🐛 216 | 🌐 Rust | 📅 2026-11-04 is an eBPF library built with a focus on operability
+[Aya](https://github.com/aya-rs/aya) ⭐ 4,893 | 🐛 216 | 🌐 Rust | 📅 2026-11-05 is an eBPF library built with a focus on operability
 and developer experience. It does not rely on libbpf nor bcc - it's built from the ground
 up purely in Rust, using only the libc crate to execute syscalls. With BTF support and
 when linked with musl, it offers a true compile once, run everywhere solution, where
@@ -105,12 +105,12 @@ If you would like to have your project included in this list, please file a pull
   * Utilizes a bunch of Aya-based eBPF probes to generate security-relevant events for various cyber threat hunting and detection tasks.
   * Can serve as a log source for incident response and forensic analysis.
   * With the right rules, it can function as a real-time behavioral detection system.
-* [luci-app-bandix](https://github.com/timsaya/luci-app-bandix) ⭐ 1,006 | 🐛 50 | 🌐 JavaScript | 📅 2026-10-27 - A [OpenWrt](https://github.com/openwrt/openwrt) ⭐ 29,064 | 🐛 4,808 | 🌐 C | 📅 2026-11-04 traffic monitoring application
-  * Built on top of [bandix](https://github.com/timsaya/bandix) ⭐ 38 | 🐛 2 | 🌐 Rust | 📅 2026-10-27 core backend, which uses Aya framework for eBPF program loading and management
+* [luci-app-bandix](https://github.com/timsaya/luci-app-bandix) ⭐ 1,006 | 🐛 51 | 🌐 JavaScript | 📅 2026-10-27 - A [OpenWrt](https://github.com/openwrt/openwrt) ⭐ 29,088 | 🐛 4,803 | 🌐 C | 📅 2026-11-05 traffic monitoring application
+  * Built on top of [bandix](https://github.com/timsaya/bandix) ⭐ 38 | 🐛 3 | 🌐 Rust | 📅 2026-10-27 core backend, which uses Aya framework for eBPF program loading and management
   * Provides real-time network traffic monitoring
   * Supports LAN/WAN speed monitoring, device TCP/UDP connection monitoring, and DNS monitoring
 * [blixt](https://github.com/kubernetes-sigs/blixt) ⚠️ Archived - A [Kubernetes](https://kubernetes.io) [Gateway API](https://gateway-api.sigs.k8s.io) based Layer 4 Load-Balancer for ingress
-  * Aya is used for eBPF code AND userspace (also uses [Kube-RS](https://github.com/kube-rs/kube) ⭐ 3,856 | 🐛 117 | 🌐 Rust | 📅 2026-11-04 for control-plane)
+  * Aya is used for eBPF code AND userspace (also uses [Kube-RS](https://github.com/kube-rs/kube) ⭐ 3,854 | 🐛 118 | 🌐 Rust | 📅 2026-11-04 for control-plane)
   * TC is used on the Kubernetes nodes for load-balancer functionality
 * [lockc](https://github.com/rancher-sandbox/lockc) ⭐ 233 | 🐛 23 | 🌐 Rust | 📅 2024-06-02 - An eBPF LSM-based MAC security audit system for container workloads
   * Works with Docker and Kubernetes (with containerd CRI)
@@ -127,9 +127,9 @@ If you would like to have your project included in this list, please file a pull
 
 ## Acknowledgements
 
-The original idea for [awesome](https://github.com/sindresorhus/awesome) ⭐ 530,587 | 🐛 103 | 📅 2026-09-02 comes from
+The original idea for [awesome](https://github.com/sindresorhus/awesome) ⭐ 531,319 | 🐛 103 | 📅 2026-09-02 comes from
 [Sindre Sorhus](https://github.com/sindresorhus). The format of this repository is based
-on [zoidbergwill's Awesome eBPF list](https://github.com/zoidbergwill/awesome-ebpf) ⭐ 5,195 | 🐛 24 | 📅 2026-09-14.
+on [zoidbergwill's Awesome eBPF list](https://github.com/zoidbergwill/awesome-ebpf) ⭐ 5,195 | 🐛 23 | 📅 2026-09-14.
 
 ## License
 
@@ -139,4 +139,4 @@ All text in this repository is governed by the Creative Commons Attribution-Shar
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
