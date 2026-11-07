@@ -24,7 +24,7 @@
                 "open_issues": 30,
                 "owner": "aya-rs",
                 "repo": "book",
-                "stars": 156,
+                "stars": 157,
                 "topics": [
                   "bpf",
                   "ebpf",
@@ -45,7 +45,7 @@
             "open_issues": 30,
             "owner": "aya-rs",
             "repo": "book",
-            "stars": 156,
+            "stars": 157,
             "topics": [
               "bpf",
               "ebpf",
@@ -70,7 +70,7 @@
             "open_issues": 7,
             "owner": "aya-rs",
             "repo": "aya-template",
-            "stars": 147,
+            "stars": 148,
             "topics": [
               "cargo-generate",
               "ebpf",
@@ -101,7 +101,7 @@
             "open_issues": 5,
             "owner": "pythops",
             "repo": "oryx",
-            "stars": 2612,
+            "stars": 2613,
             "topics": [
               "bpf",
               "ebpf",
@@ -282,11 +282,11 @@
             "id": 656723700,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-05T15:01:42Z",
+            "last_commit": "2026-11-06T11:00:57Z",
             "open_issues": 15,
             "owner": "kunai-project",
             "repo": "kunai",
-            "stars": 1099,
+            "stars": 1100,
             "topics": [
               "ebpf",
               "linux",
@@ -367,11 +367,11 @@
                 "id": 157133149,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-06T09:52:02Z",
-                "open_issues": 113,
+                "last_commit": "2026-11-06T13:34:34Z",
+                "open_issues": 110,
                 "owner": "kube-rs",
                 "repo": "kube",
-                "stars": 3854,
+                "stars": 3855,
                 "topics": [
                   "client",
                   "kubernetes",
@@ -471,7 +471,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T09:55:10.249Z",
+    "last_updated": "2026-11-07T09:17:20.668Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome eBPF 🐝 projects using aya-rs and Rust 🦀",
@@ -483,7 +483,7 @@
       "open_issues": 7,
       "owner": "aya-rs",
       "repo": "awesome-aya",
-      "stars": 201,
+      "stars": 202,
       "topics": [
         "awesome",
         "awesome-list",
