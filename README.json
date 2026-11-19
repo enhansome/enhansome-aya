@@ -340,7 +340,7 @@
             "open_issues": 52,
             "owner": "timsaya",
             "repo": "luci-app-bandix",
-            "stars": 1016,
+            "stars": 1019,
             "topics": [
               "bandwidth-monitor",
               "luci-app-bandix",
@@ -368,7 +368,7 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-16T05:44:45Z",
-                "open_issues": 110,
+                "open_issues": 109,
                 "owner": "kube-rs",
                 "repo": "kube",
                 "stars": 3866,
@@ -471,7 +471,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T10:45:50.769Z",
+    "last_updated": "2026-11-19T10:46:12.893Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome eBPF 🐝 projects using aya-rs and Rust 🦀",
